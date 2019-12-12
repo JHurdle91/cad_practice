@@ -1,0 +1,14 @@
+* cad_practice
+
+this is a collection of drawings, stolen from
+[[https://www.reddit.com/r/AutodeskInventor/comments/cof850/modelling_practice_drawings_900_sketches/][this
+reddit post]]
+
+i plan to add more practice material that i come across. and i will accept pull
+requests if anyone wants to contribute
+
+* legal stuff
+
+these drawings come from [[http://www.studycadcam.com][studycadcam]]. the website is korean, so i can't read
+what the policy is for sharing the material here. if i receive a take-down
+notice i will delete this repo immediately.
